@@ -3,4 +3,3 @@
 2x Follow the line sensor (1568-1554-ND)
 2x H-bridge (620-1428-1-ND)
 1x Battery cable (BS6I-MC-ND)
-1x 9V Battery
