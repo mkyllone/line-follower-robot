@@ -1,6 +1,7 @@
 1x Arduino Uno (1050-1024-ND)
 2x DC Motor (1568-1161-ND)
 2x Follow the line sensor (1568-1554-ND)
+2x H-bridge (620-1428-1-ND) (stuck in the circuit borad)
 1x H-bridge (497-2936-5-ND)
 1x BreadBorad (1738-1326-ND)
 2x Battery cable (BS6I-MC-ND)
